@@ -5,10 +5,6 @@
 
 <hr>
 
-<p align="center">
-   <img src="https://i.ibb.co/vw9b98m/example.jpg">
-</p>
-
 <ol>
     <li>Install requirements.txt</li>
     <li>Create application on Discord Developer</li>
@@ -16,3 +12,8 @@
     <li>Create ENV file and set <strong>TOKEN_AI - TOKEN_DISCORD - PROFILE_URL</strong></li>
     <li>Run the bot</li>
 </ol>
+
+<hr>
+<p align="center">Embed Example</p>
+<img width="300" height="300" src="https://i.ibb.co/vw9b98m/example.jpg">
+
