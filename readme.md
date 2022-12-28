@@ -15,5 +15,5 @@
 
 <hr>
 <p align="center">Embed Example</p>
-<img width="300" height="300" src="https://i.ibb.co/vw9b98m/example.jpg">
+<img width="600" height="400" src="https://i.ibb.co/vw9b98m/example.jpg">
 
